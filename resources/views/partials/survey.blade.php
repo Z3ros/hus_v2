@@ -41,7 +41,7 @@ var submitSurveyUrl = "{{ url('survey/submit') }}";
 	<div class="modal-content">
 		<div class="modal-header">
 			<div class="col-sm-10">
-				<p class="mod_title">Vireys kysel</p>
+				<p class="mod_title">Vireys kysely</p>
 			</div>
 		</div>
 		<div class="modal-body">
